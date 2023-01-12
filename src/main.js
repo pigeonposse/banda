@@ -1,0 +1,1 @@
+console.log('This package is under construction, so it does not do anything yet. If you want to follow its development you can do it at: https://github.com/PigeonPosse/banda')
