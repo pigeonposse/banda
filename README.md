@@ -45,7 +45,9 @@ FOR PIGEONPOSSE.COM
 
 ⚡️ JS library that will make it easy to create complex HTML components in a fast, declarative and reusable way.
 
-> :warning: **_DEV_ mode**. This package is still under construction, which means it doesn't do anything yet.
+<br>
+
+> 🏗 **_Construction_ mode**: This package is still under construction, which means it doesn't do anything yet.
 
 <br>
 
