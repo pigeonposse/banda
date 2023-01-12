@@ -28,7 +28,7 @@
 		"type": "individual",
 		"url": "https://pigeonposse.com/?popup=donate"
 	},
-	"homepage": "https://banda.pigeonposse.com/",
+	"homepage": "https://pigeonposse.com/",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/pigeonposse/banda"

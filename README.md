@@ -34,7 +34,7 @@ FOR PIGEONPOSSE.COM
 ![HEADER BANDA](docs/header.png)
 
 [![License](https://img.shields.io/github/license/pigeon-posse/pigeonsh?color=blue&label=License&style=flat-square)](https://npmjs.com/package/banda)
-[![Version](https://img.shields.io/npm/v/banda?color=a1b858&label&style=flat-square)](https://npmjs.com/package/@pigeon-posse/pigeonsh)
+[![Version](https://img.shields.io/npm/v/banda?color=a1b858&label&style=flat-square)](https://npmjs.com/package/banda)
 [![Web](https://img.shields.io/badge/Web-grey?style=flat-square)](https://pigeonposse.com/) 
 [![About us](https://img.shields.io/badge/About-us-grey?style=flat-square)](https://pigeonposse.com/?popup=about) 
 [![Donate](https://img.shields.io/badge/Donate-pink?style=flat-square)](https://pigeonposse.com/?popup=donate) 
