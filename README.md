@@ -67,7 +67,7 @@ Help us to develop more interesting things.
 
 This sofware is licensed with GPLv3 (GNU GENERAL PUBLIC LICENSE Version 3).
 
-[![Read more](https://img.shields.io/badge/Read-more-grey?style=flat-square)](https://github.com/pigeon-posse/pigeonsh/blob/main/LICENSE)
+[![Read more](https://img.shields.io/badge/Read-more-grey?style=flat-square)](https://github.com/pigeonposse/banda/blob/main/LICENSE)
 
 ## 🐦 About us
 
