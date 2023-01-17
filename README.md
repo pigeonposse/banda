@@ -60,14 +60,14 @@ You can contribute via **_Github_**.
 
 ## ☕ Donate
 
-Help us to develop more interesting things.
+Help us develop interesting things.
 
 [![Donate](https://img.shields.io/badge/Donate-grey?style=flat-square)](https://pigeonposse.com/?popup=donate) 
 
 
 ## 📜 License
 
-This sofware is licensed with GPLv3 (GNU GENERAL PUBLIC LICENSE Version 3).
+This software is licensed with GPLv3 (GNU GENERAL PUBLIC LICENSE Version 3).
 
 [![Read more](https://img.shields.io/badge/Read-more-grey?style=flat-square)](https://github.com/pigeonposse/banda/blob/main/LICENSE)
 
