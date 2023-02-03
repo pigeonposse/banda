@@ -20,6 +20,13 @@
 		"email": "angelo@pigeonposse.com",
 		"url": "https://pigeonposse.com"
 	},
+	"contributors": [
+		{
+			"name": "PigeonPosse",
+			"email": "dev@pigeonposse.com",
+			"url": "https://pigeonposse.com"
+		}
+	],
 	"license": {
 		"type": "GPL-3.0",
 		"url": "https://github.com/pigeonposse/banda/LICENSE"
