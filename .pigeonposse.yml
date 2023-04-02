@@ -4,14 +4,14 @@
 
 web:
   
-  - id: {{package.name}}
+  - id: "{{package.name}}"
     name: Banda
     type: js-library
     version: "{{package.version}}"
     description: "{{package.description}}"
     homepage: "{{package.homepage}}"
     repo: "https://github.com/pigeonposse/{{package.name}}"
-    # logo: "https://raw.githubusercontent.com/pigeonposse/{{package.name}}/main/docs/logo.png"
+    logo: "https://raw.githubusercontent.com/pigeonposse/{{package.name}}/main/docs/logo.png"
     banner: "https://raw.githubusercontent.com/pigeonposse/{{package.name}}/main/docs/header.png"
     status: "coming-soon"
 
