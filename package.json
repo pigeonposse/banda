@@ -1,7 +1,7 @@
 {
 	"name": "banda",
 	"version": "0.0.1",
-	"description": "JS library that will make it easy to create complex HTML components in a fast, declarative and reusable way.",
+	"description": "JS library that will make it easy to create complex HTML components in a fast, declarative and reusable way",
 	"main": "src/main.js",
 	"scripts": {
 		"test": "node src/main.js"
