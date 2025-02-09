@@ -31,7 +31,7 @@ FOR PIGEONPOSSE.COM
 
 -->
 
-![HEADER BANDA](docs/header.png)
+![HEADER BANDA](docs/banner.png)
 
 [![License](https://img.shields.io/github/license/pigeon-posse/pigeonsh?color=blue&label=License&style=flat-square)](https://npmjs.com/package/banda)
 [![Version](https://img.shields.io/npm/v/banda?color=a1b858&label&style=flat-square)](https://npmjs.com/package/banda)
