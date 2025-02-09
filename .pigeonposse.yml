@@ -3,18 +3,11 @@
 ###############################################################################
 
 web:
-  
-  - id: "{{package.name}}"
+  banda:
     name: Banda
-    type: 
+    desc: ⚡️ JS library that will make it easy to create complex HTML components in a fast, declarative and reusable way
+    type:
       - library
-    version: "{{package.version}}"
-    description: "{{package.description}}"
-    homepage: "{{package.homepage}}"
-    repo: "https://github.com/pigeonposse/{{package.name}}"
-    logo: "https://raw.githubusercontent.com/pigeonposse/{{package.name}}/main/docs/logo.png"
-    banner: "https://raw.githubusercontent.com/pigeonposse/{{package.name}}/main/docs/header.png"
-    status: "idea"
-
+    status: idea
 
 ###############################################################################
