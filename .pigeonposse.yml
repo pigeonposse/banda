@@ -9,5 +9,6 @@ web:
     type:
       - library
     status: idea
+    logo: https://raw.githubusercontent.com/pigeonposse/banda/main/docs/logo.png
 
 ###############################################################################
